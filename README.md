@@ -4,6 +4,9 @@ This project features an all-star team created by selecting players based on the
 Link to the Tableau Cloud Dashboard
 [(https://us-east-1.online.tableau.com/#/site/dsba5122fall24/views/FifaAll-StarLineup/FiFaAllstarLineup?:iid=1)]
 
+Tableau Public Dashboard
+[(https://public.tableau.com/app/profile/matthew.lawson6685/viz/FifaAllstarLineupMLawson/FiFaAllstarLineup?publish=yes)]
+
 Link to the FIFA players data set
 [(https://data.world/raghav333/fifa-players)]
 
